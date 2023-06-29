@@ -1,0 +1,57 @@
+*{
+    margin: 0;
+    border: 0;
+}
+
+html{
+    height: 90vh;
+    background-image: url(./images/brasil.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover; 
+}
+
+header div{
+    width: 95vw;
+}
+
+header h1{
+    padding-left: 44vw;
+    padding-right: 37vw;
+}
+
+.menu{
+    background-color: white;
+    padding: 5px 0;
+    border: .1px solid blue;
+    box-sizing: border-box;
+    display: inline-block;
+    width: 46vw;
+    margin: 20px 1.4vw;
+}
+
+img{
+    padding: 5px 0;
+    width: 16vw;
+    height: 113px;
+    vertical-align: middle;
+}
+
+.conteudo{
+    WIDTH: 360PX;
+    height: 123.25PX;
+    vertical-align: top;
+    display: inline-block;
+}
+
+button{
+    margin:10px 171.82px;
+    padding: 0;
+    border: 0; 
+    vertical-align: bottom;
+}
+
+h2 {
+    margin:10px 0;
+    text-align: center;
+}
